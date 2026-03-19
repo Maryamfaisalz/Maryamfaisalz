@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<!-
+## Welcome👋
 <!-- Header -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1D9E75&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Maryam+Faisal!+%F0%9F%91%8B;Data+Analyst+%7C+SQL+%7C+Power+BI+%7C+Excel;Turning+data+into+decisions!" alt="Typing SVG" />
@@ -64,4 +62,3 @@ I'm a passionate **Data Analyst** who loves transforming raw data into meaningfu
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Maryamfaisalz&color=1D9E75&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>
--->
