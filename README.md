@@ -1,8 +1,14 @@
-## Welcome👋
-<!-- Header -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1D9E75&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Maryam+Faisal!+%F0%9F%91%8B;Data+Analyst+%7C+SQL+%7C+Power+BI+%7C+Excel;Turning+data+into+decisions!" alt="Typing SVG" />
-</div>
+# Welcome 👋
+
+---
+
+## 🚀 Currently Building
+
+**FinTech Data Analytics Roadmap**
+
+Building an end-to-end fintech analytics project focused on **customer behavior, transaction performance, merchant analytics, and financial KPIs**.
+
+Currently working with **Python, Pandas, NumPy, SQL, PostgreSQL, and Matplotlib**, with the project progressing toward **API integration and Power BI dashboarding**.
 
 ---
 
@@ -20,17 +26,13 @@ I'm a passionate **Data Analyst** who loves transforming raw data into meaningfu
 
 ## 🛠️ Tech Stack
 
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 ---
 
 ## 🚀 Featured Projects
 
 | Project | Description | Tools |
-|---|---|---|
+| --- | --- | --- |
+| 💳 [FinTech Data Analytics](https://github.com/Maryamfaisalz/fintech-data-analytics-roadmap) | End-to-end fintech analytics project covering customer behavior, transactions, merchant performance, KPIs, SQL analysis, and dashboards | Python, Pandas, NumPy, SQL, PostgreSQL, Matplotlib, Power BI |
 | ☕ [Coffee Shop Sales](https://github.com/Maryamfaisalz/Coffee-Shop-Sales-Excel-Project) | Sales trend analysis with dynamic Excel dashboards | Excel |
 | 🏨 [AtliQ Hotel Revenue Insights](https://github.com/Maryamfaisalz/Atliq_Hotel-Revenue-Insights-Power-BI-Project) | Revenue insights & KPI dashboards for AtliQ Hotels | Power BI |
 | 🛒 [Walmart Sales Analysis](https://github.com/Maryamfaisalz/Walmart-Sales-Analysis-SQL-Project) | Sales performance deep-dive using SQL queries | SQL |
@@ -39,26 +41,6 @@ I'm a passionate **Data Analyst** who loves transforming raw data into meaningfu
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maryamfaisalz&show_icons=true&theme=default&hide_border=true&count_private=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maryamfaisalz&theme=default&hide_border=true" height="160" alt="GitHub Streak" />
-</div>
-
 ---
 
 ## 🤝 Connect With Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/maryam-faisalz/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Maryamfaisalz">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Maryamfaisalz&color=1D9E75&style=flat-square&label=Profile+Views" alt="Profile views" />
-</div>
