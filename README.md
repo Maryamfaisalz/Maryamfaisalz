@@ -8,7 +8,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a passionate **Data Analyst** who loves transforming raw data into meaningful insights. I work with Excel, SQL, and Power BI to uncover stories hidden in numbers — from retail trends to hotel revenue optimization.
+I'm a passionate **Data Analyst** who loves transforming raw data into meaningful insights. I work with Excel, SQL, and Power BI to uncover stories hidden in numbers from retail trends to hotel revenue optimization.
 
 - 🔍 Currently working on data analysis & visualization projects
 - 📊 Experienced in building interactive dashboards & reports
