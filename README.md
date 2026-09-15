@@ -8,7 +8,7 @@
 
 Building an end-to-end fintech analytics project focused on **customer behavior, transaction performance, merchant analytics, and financial KPIs**.
 
-Currently working with **Python, Pandas, NumPy, SQL, PostgreSQL, and Matplotlib**, with the project progressing toward **API integration and Power BI dashboarding**.
+Currently working with **Python, Pandas, NumPy, SQL, PostgreSQL, and Matplotlib**
 
 ---
 
