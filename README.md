@@ -1,4 +1,4 @@
-# Welcome 👋
+# Hey there! 👋 Welcome to my Data Corner 📊
 
 ---
 ## 👩‍💻 About Me
@@ -14,6 +14,30 @@ I'm a **Data Analyst** who loves transforming raw data into meaningful insights.
 ---
 
 ## 🛠️ Tech Stack
+
+## 🧰 My Tech Stack
+
+- **📊 Excel**
+  
+  ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+- **📈 Power BI**
+  
+  ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+- **🐍 Python for Data Analysis**
+  - NumPy
+  - Pandas
+  - Matplotlib
+
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
+
+- **🗄️ PostgreSQL**
+  
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
 
