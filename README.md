@@ -16,7 +16,7 @@ I'm a **Data Analyst** who loves transforming raw data into meaningful insights.
 ## 🛠️ Tech Stack
 Programming Languages: 
 - SQL: CTEs, window functions, subqueries, complex joins, query optimization
-- Python: Pandasl, Numpy, Matplotlib, Seaborn, Data Wrangling, EDA
+- Python: Pandas, Numpy, Matplotlib, Seaborn, Data Wrangling, EDA, Feature Engineering
 
 Databases:
 - Relational Databases: PostgreSQL, MySQL
@@ -25,10 +25,10 @@ BI & Data Visualization:
 - Power BI: DAX, Power Query, Data modeling
 
 Spreadsheets:
-- Excel/Google Sheets: Pivot Tables,XLOOKUP, VLOOKUP,INDEX-MATCH,Power Query, VBA/Macros
+- Excel/Google Sheets: Pivot Tables, XLOOKUP, VLOOKUP, INDEX-MATCH, Power Query, VBA/Macros
 
 Business Impact & Deliverables:
-- KPI reporting, metrics definition, stakeholder communication, actionable insights
+- KPI Reporting, Metrics Definition, Stakeholder Communication, Actionable Insights
 
 ---
 
