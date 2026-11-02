@@ -1,4 +1,4 @@
-# Hey there! 👋 Welcome to my Data Corner 📊
+# Welcome to my Data Corner 📊
 
 ---
 ## 👩‍💻 About Me
@@ -14,14 +14,21 @@ I'm a **Data Analyst** who loves transforming raw data into meaningful insights.
 ---
 
 ## 🛠️ Tech Stack
-| Category | Tools & Technologies |
-|---|---|
-| **Spreadsheet Analysis** | Microsoft Excel |
-| **Business Intelligence & Visualization** | Power BI |
-| **Programming Language** | Python |
-| **Python Libraries** | NumPy, Pandas, Matplotlib |
-| **Database Management** | PostgreSQL |
+Programming Languages: 
+- SQL: CTEs, window functions, subqueries, complex joins, query optimization
+- Python: Pandasl, Numpy, Matplotlib, Seaborn, Data Wrangling, EDA
 
+Databases:
+- Relational Databases: PostgreSQL, MySQL
+
+BI & Data Visualization:
+- Power BI: DAX, Power Query, Data modeling
+
+Spreadsheets:
+- Excel/Google Sheets: Pivot Tables,XLOOKUP, VLOOKUP,INDEX-MATCH,Power Query, VBA/Macros
+
+Business Impact & Deliverables:
+- KPI reporting, metrics definition, stakeholder communication, actionable insights
 
 ---
 
