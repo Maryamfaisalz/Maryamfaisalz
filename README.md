@@ -1,45 +1,26 @@
-# Welcome to my Data Corner 📊
+## Welcome to my business case studies 📊
 
----
-## 👩‍💻 About Me
-
-I'm a **Data Analyst** who loves transforming raw data into meaningful insights. I work with Excel, SQL, and Power BI to uncover stories hidden in numbers from retail trends to hotel revenue optimization.
-
-- 🔍 Currently working on data analysis & visualization projects
-- 📊 Experienced in building interactive dashboards & reports
-- 🧠 Always learning and exploring new analytical techniques
-- 💬 Ask me about **Python, SQL, Power BI, Excel, or Data Analytics**
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/maryam-faisalz/)
+### 💼 Data Analyst | Bridging Data & Strategic Decision-Making
+I specialize in translating messy operational, financial, and retail datasets into executive-level KPIs, cost-saving insights, and growth strategies. 
 
 ---
 
-## 🛠️ Tech Stack
-Programming Languages: 
-- SQL: CTEs, window functions, subqueries, complex joins, query optimization
-- Python: Pandas, Numpy, Matplotlib, Seaborn, Data Wrangling, EDA, Feature Engineering
+### 📂 Domain-Specific Case Studies
 
-Databases:
-- Relational Databases: PostgreSQL, MySQL
+#### 🏨 Hospitality & Revenue Optimization
+* **[AtliQ Hotel Revenue Insights](https://github.com/Maryamfaisalz/Atliq_Hotel-Revenue-Insights-Power-BI-Project)**
+  - **The Business Challenge:** Assessed lagging hotel revenues and declining occupancy rates across multiple properties.
+  - **The Solution:** Built an executive Power BI dashboard tracking critical hospitality metrics (RevPAR, ADR, Realization Rate) to support dynamic pricing strategies.
+  - **The Impact:** Provided leadership with clear visibility into underperforming property segments and booking channel efficiency.
 
-BI & Data Visualization:
-- Power BI: DAX, Power Query, Data modeling
+#### 🛒 Retail & Consumer Analytics
+* **[Walmart Sales Analysis](https://github.com/Maryamfaisalz/Walmart-Sales-Analysis-SQL-Project)**
+  - **The Business Challenge:** Analyzed multi-store historical sales data to understand macroeconomic trends and seasonal demand shifts.
+  - **The Solution:** Wrote complex SQL queries to isolate high-performing product lines, holiday sales spikes, and branch-level performance disparities.
+  - **The Impact:** Uncovered actionable sales patterns to support data-driven inventory planning and promotional timing.
 
-Spreadsheets:
-- Excel/Google Sheets: Pivot Tables, XLOOKUP, VLOOKUP, INDEX-MATCH, Power Query, VBA/Macros
-
-Business Impact & Deliverables:
-- KPI Reporting, Metrics Definition, Stakeholder Communication, Actionable Insights
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tools |
-| --- | --- | --- |
-| ☕ [Coffee Shop Sales](https://github.com/Maryamfaisalz/Coffee-Shop-Sales-Excel-Project) | Sales trend analysis with dynamic Excel dashboards | Excel |
-| 🏨 [AtliQ Hotel Revenue Insights](https://github.com/Maryamfaisalz/Atliq_Hotel-Revenue-Insights-Power-BI-Project) | Revenue insights & KPI dashboards for AtliQ Hotels | Power BI |
-| 🛒 [Walmart Sales Analysis](https://github.com/Maryamfaisalz/Walmart-Sales-Analysis-SQL-Project) | Sales performance deep-dive using SQL queries | SQL |
-
----
-
-## 🤝 Connect With Me
+#### ☕ Operations & Consumer Trends
+* **[Coffee Shop Sales](https://github.com/Maryamfaisalz/Coffee-Shop-Sales-Excel-Project)**
+  - **The Business Challenge:** Evaluated transactional data to identify peak operating hours, top-selling product categories, and daily revenue patterns.
+  - **The Solution:** Developed a dynamic Excel-based reporting model incorporating interactive filters and pivot structures.
+  - **The Impact:** Provided store management with clear visibility into staffing optimization windows and product bundling opportunities.
