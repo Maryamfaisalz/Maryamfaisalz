@@ -28,6 +28,6 @@ Targeting data-driven solutions across **E-commerce, Hospitality, Healthcare, an
   - **The Solution:** Developed a dynamic Excel-based reporting model incorporating interactive filters and pivot structures.
   - **The Impact:** Provided store management with clear visibility into staffing optimization windows and product bundling opportunities.
 
-### 💬 Let's Connect
+### Let's Connect
 - **LinkedIn:** [in/maryam-faisalz](https://www.linkedin.com/in/maryam-faisalz/)
 - **Focus Areas:** Data Storytelling, Business Intelligence, Product-Driven Analytics
