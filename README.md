@@ -1,7 +1,6 @@
 ## Welcome to my business case studies
 
 ### Data Analyst | Bridging Data & Strategic Decision-Making
-I specialize in translating messy operational, financial, and retail datasets into executive-level KPIs, cost-saving insights, and growth strategies. 
 
 ---
 
