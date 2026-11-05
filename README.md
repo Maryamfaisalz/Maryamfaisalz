@@ -1,8 +1,8 @@
 ## Welcome to my business case studies
 
 ### Data Analyst | Bridging Data & Strategic Decision-Making
-
----
+Targeting data-driven solutions across **E-commerce, Hospitality, Healthcare, and Fintech**.
+---/
 
 ### Domain-Specific Case Studies
 
