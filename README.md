@@ -2,9 +2,10 @@
 
 ### Data Analyst | Bridging Data & Strategic Decision-Making
 Targeting data-driven solutions across **E-commerce, Hospitality, Healthcare, and Fintech**.
-    
-    The Business Framework:
-    Problem -> Solution -> Business Impact
+
+> **The Business Framework:**  
+> Problem $\rightarrow$ Solution $\rightarrow$ Business Impact
+
 ---
 
 ### Domain-Specific Case Studies
